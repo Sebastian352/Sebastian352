@@ -16,7 +16,6 @@ Feel free to connect with me @Sebastian352 for all things tech or just to say he
 
 Joined Github **5** years ago.
 
-Since then I pushed **3006**+ commits, opened **229**+ issues, submitted **399**+ pull requests, created **20**+ gists and contributed to **8**+ public repositories.
 
 
 ### Talking about Personal Stuff:
