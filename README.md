@@ -6,7 +6,6 @@
 
 ### Glad to see you here! &nbsp; !
 
-I am the CEO of [Swiftale Studio](https://www.swiftale.com/) a creative studio that aims to develop businesses into the digital world. 🚀
 
 I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
 
