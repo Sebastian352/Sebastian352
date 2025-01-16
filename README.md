@@ -19,7 +19,7 @@ Joined Github **5** years ago.
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with C++, React, JS, etc.
+- 🛠 &nbsp; I’m currently working with Python, C++, React.
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 - 📫 &nbsp; Reach me out: sebastian.olaru32@gmail.com.
